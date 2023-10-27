@@ -8,7 +8,7 @@ What is not included:
 - Drawings made by/for hobby recreations and art
 - Collections without scale/measurements
 
-## Library of Congress
+## U.S. Library of Congress
 Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey
 https://www.loc.gov/pictures/collection/hh/
 
@@ -19,7 +19,7 @@ Example: [Texas State Capitol](https://www.loc.gov/pictures/search/?q=Drawing:%2
 
 <img src="TexasStateCapitol.png" width="400">
 
-## National Archives
+## U.S. National Archives
 
 Series of Ship Engineering Drawings:
 https://catalog.archives.gov/search-within/559623?availableOnline=true&typeOfMaterials=Architectural%20and%20Engineering%20Drawings
