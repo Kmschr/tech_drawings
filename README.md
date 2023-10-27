@@ -26,6 +26,8 @@ https://catalog.archives.gov/search-within/559623?availableOnline=true&typeOfMat
 
 Example: [Plans for the Armored Cruiser USS Maine](https://catalog.archives.gov/id/53484484)
 
+<img src="USSMaine.jfif" width="400">
+
 ## Denver Public Library Digital Collections
 https://digital.denverlibrary.org/digital/search/order/datea/ad/asc/page/1
 
