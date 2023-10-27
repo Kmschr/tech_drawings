@@ -22,3 +22,11 @@ Example: [Plans for the Armored Cruiser USS Maine](https://catalog.archives.gov/
 https://digital.denverlibrary.org/digital/search/order/datea/ad/asc/page/1
 
 Example: [Denver & Rio Grande Railway Drawings](https://digital.denverlibrary.org/digital/collection/p16079coll29/search/searchterm/Denver%20and%20Rio%20Grande%20Railway%20Company./field/creato/mode/exact/conn/and)
+
+## San Francisco Maritime National Park Association
+
+Booklet of General Plans Online:
+https://maritime.org/doc/plans/index.php
+
+Example: [USS Growler Submarine SSG577 Booklet of General Plans](https://maritime.org/doc/plans/ssg577.pdf)
+
