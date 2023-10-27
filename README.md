@@ -42,3 +42,5 @@ https://maritime.org/doc/plans/index.php
 
 Example: [USS Growler Submarine SSG577 Booklet of General Plans](https://maritime.org/doc/plans/ssg577.pdf)
 
+<img src="USSGrowler.png" width="400">
+
