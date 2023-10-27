@@ -44,3 +44,6 @@ Example: [USS Growler Submarine SSG577 Booklet of General Plans](https://maritim
 
 <img src="USSGrowler.png" width="400">
 
+## Canada National Archives
+Architectural and technical drawings:
+https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?DataSource=Archives&num=25&start=0&enviro=prod&TypeOfMaterialCode=700&OnlineCode=1
