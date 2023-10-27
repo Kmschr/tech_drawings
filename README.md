@@ -1,6 +1,12 @@
 # Technical Drawings
 Historical Engineering and Technical Drawings Resources
 
+What is included:
+- Historical documents with measured drawings
+
+What is not included:
+- Drawings made by/for hobby recreations and art
+- Collections without scale/measurements
 
 ## Library of Congress
 Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey
