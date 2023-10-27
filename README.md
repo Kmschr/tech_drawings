@@ -7,6 +7,7 @@ What is included:
 What is not included:
 - Drawings made by/for hobby recreations and art
 - Collections without scale/measurements
+- Paywalled/non-digitized collections
 
 ## U.S. Library of Congress
 Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey
