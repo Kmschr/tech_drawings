@@ -33,6 +33,8 @@ https://digital.denverlibrary.org/digital/search/order/datea/ad/asc/page/1
 
 Example: [Denver & Rio Grande Railway Drawings](https://digital.denverlibrary.org/digital/collection/p16079coll29/search/searchterm/Denver%20and%20Rio%20Grande%20Railway%20Company./field/creato/mode/exact/conn/and)
 
+<img src="D&RG.jpg" width="400">
+
 ## San Francisco Maritime National Park Association
 
 Booklet of General Plans Online:
