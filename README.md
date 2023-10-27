@@ -42,6 +42,10 @@ https://maritime.org/doc/plans/index.php
 
 Example: [USS Growler Submarine SSG577 Booklet of General Plans](https://maritime.org/doc/plans/ssg577.pdf)
 
+
+## Misc
+- [Derby Carriage and Wagon Works](https://collection.sciencemuseumgroup.org.uk/documents/aa110002829/engineering-drawings-from-the-derby-carriage-and-wagon-works)
+
 <img src="USSGrowler.png" width="400">
 
 ## Canada National Archives
