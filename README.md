@@ -11,6 +11,8 @@ https://www.loc.gov/pictures/collection/hh/
 
 Example: [Texas State Capitol](https://www.loc.gov/pictures/search/?q=Drawing:%20tx0398&fi=number&op=PHRASE&va=exact&co%20=hh&st=gallery&sg%20=%20true)
 
+<img src="TexasStateCapitol.png" width="400">
+
 ## National Archives
 
 Series of Ship Engineering Drawings:
