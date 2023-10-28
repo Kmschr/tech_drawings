@@ -49,6 +49,9 @@ Example: [USS Growler Submarine SSG577 Booklet of General Plans](https://maritim
 Architectural and technical drawings:
 https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?DataSource=Archives&num=25&start=0&enviro=prod&TypeOfMaterialCode=700&OnlineCode=1
 
+## Digital Public Library of America
+https://dp.la/search?utf8=%E2%9C%93&subject=%22Technical+drawings%22
+
 ## Misc
 - [Derby Carriage and Wagon Works](https://collection.sciencemuseumgroup.org.uk/documents/aa110002829/engineering-drawings-from-the-derby-carriage-and-wagon-works)
 - [Jackson and Sharp Company Railway Car and Ship Plans Drawings](https://delaware.contentdm.oclc.org/digital/collection/p15323coll6/search/searchterm/Drawings)
