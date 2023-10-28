@@ -51,3 +51,4 @@ https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?DataSource=Arc
 
 ## Misc
 - [Derby Carriage and Wagon Works](https://collection.sciencemuseumgroup.org.uk/documents/aa110002829/engineering-drawings-from-the-derby-carriage-and-wagon-works)
+- [Jackson and Sharp Company Railway Car and Ship Plans Drawings](https://delaware.contentdm.oclc.org/digital/collection/p15323coll6/search/searchterm/Drawings)
