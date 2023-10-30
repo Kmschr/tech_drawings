@@ -55,4 +55,5 @@ https://dp.la/search?q=drawing&utf8=%E2%9C%93&subject=%22Railroads%22
 
 ## Misc
 - [Derby Carriage and Wagon Works](https://collection.sciencemuseumgroup.org.uk/documents/aa110002829/engineering-drawings-from-the-derby-carriage-and-wagon-works)
+- [North Eastern Railway and London & North Eastern Railway Carriage & Wagon Drawings](https://collection.sciencemuseumgroup.org.uk/documents/aa110131518/north-eastern-railway-and-london-north-eastern-railway-carriage-wagon-drawings)
 - [Jackson and Sharp Company Railway Car and Ship Plans Drawings](https://delaware.contentdm.oclc.org/digital/collection/p15323coll6/search/searchterm/Drawings)
