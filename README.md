@@ -54,12 +54,21 @@ Architectural and Technical Drawings:
 https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?DataSource=Archives&num=25&start=0&enviro=prod&TypeOfMaterialCode=700&OnlineCode=1
 
 Example: [Canada Parliament Buildings](https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?DataSource=Archives%7cFonAndCol&SearchIn_1=PartOfEn&SearchInText_1=180009&num=25&start=0&enviro=prod&OnlineCode=1)
+(83 Drawings)
 
 <img src="previews/CanadaParliament.png" width="400">
 
+## Southern Methodist University Digital Collections
+Railroad Engineering Drawings: https://digitalcollections.smu.edu/digital/collection/rwy/search/searchterm/Series%201:%20Engineering%20Drawings/field/series/mode/exact/conn/and
+New York Bridge Drawings: https://digitalcollections.smu.edu/digital/collection/nam/search/searchterm/New%20York%20Bridge%20Drawings/field/part/mode/exact/conn/and
+
+Example: [Queensboro Bridge](https://digitalcollections.smu.edu/digital/collection/nam/id/418/rec/22)
+(34 Drawings)
+
+<img src="previews/QueensboroBridge.png" width="400">
+
 ## Digital Public Library of America
-https://dp.la/search?utf8=%E2%9C%93&subject=%22Technical+drawings%22
-https://dp.la/search?q=drawing&utf8=%E2%9C%93&subject=%22Railroads%22
+Technical Drawings: https://dp.la/search?q=technical+drawings
 
 ## Science Museum Group UK
 Hosts an online collection of select drawings from Railway Museum UK
