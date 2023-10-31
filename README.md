@@ -53,7 +53,18 @@ https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?DataSource=Arc
 https://dp.la/search?utf8=%E2%9C%93&subject=%22Technical+drawings%22
 https://dp.la/search?q=drawing&utf8=%E2%9C%93&subject=%22Railroads%22
 
-## Misc
+## Science Museum Group UK
+Hosts an online collection of select drawings from Railway Museum UK
+
+Note: 
+The website doesnt seem to be working for downloading the full res version of scans but there is a workaround. 
+The collection utilizes the [IIIF Image API 2.0](https://iiif.io/api/image/2.0/) for access of large images, the URLs of which can be found using the museum's [Collections Online API](https://github.com/TheScienceMuseum/collectionsonline/wiki/Collections-Online-API)
+
+- Use the Collections Online API to find the "zoom" URL of the drawing within the document you are viewing
+- Replace the last part of the URL that says `.ptif` with `/full/full/0/default.tif`
+    - This is essentially saying "give me the full image with no rotation and default colors in TIFF format"
+
+## Misc Quicklinks
 - [Derby Carriage and Wagon Works](https://collection.sciencemuseumgroup.org.uk/documents/aa110002829/engineering-drawings-from-the-derby-carriage-and-wagon-works)
 - [North Eastern Railway and London & North Eastern Railway Carriage & Wagon Drawings](https://collection.sciencemuseumgroup.org.uk/documents/aa110131518/north-eastern-railway-and-london-north-eastern-railway-carriage-wagon-drawings)
 - [Jackson and Sharp Company Railway Car and Ship Plans Drawings](https://delaware.contentdm.oclc.org/digital/collection/p15323coll6/search/searchterm/Drawings)
