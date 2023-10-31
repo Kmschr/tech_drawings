@@ -17,6 +17,7 @@ https://www.loc.gov/pictures/collection/hh/
 - Download TIFF for high resolution version
 
 Example: [Texas State Capitol](https://www.loc.gov/pictures/search/?q=Drawing:%20tx0398&fi=number&op=PHRASE&va=exact&co%20=hh&st=gallery&sg%20=%20true)
+(79 Drawings)
 
 <img src="previews/TexasStateCapitol.png" width="400">
 
@@ -26,6 +27,7 @@ Series of Ship Engineering Drawings:
 https://catalog.archives.gov/search-within/559623?availableOnline=true&typeOfMaterials=Architectural%20and%20Engineering%20Drawings
 
 Example: [Plans for the Armored Cruiser USS Maine](https://catalog.archives.gov/id/53484484)
+(571 Drawings)
 
 <img src="previews/USSMaine.png" width="400">
 
@@ -33,6 +35,7 @@ Example: [Plans for the Armored Cruiser USS Maine](https://catalog.archives.gov/
 https://digital.denverlibrary.org/digital/search/order/datea/ad/asc/page/1
 
 Example: [Denver & Rio Grande Railway Drawings](https://digital.denverlibrary.org/digital/collection/p16079coll29/search/searchterm/Denver%20and%20Rio%20Grande%20Railway%20Company./field/creato/mode/exact/conn/and)
+(35 Drawings)
 
 <img src="previews/D&RG.png" width="400">
 
@@ -42,6 +45,7 @@ Booklet of General Plans Online:
 https://maritime.org/doc/plans/index.php
 
 Example: [USS Growler Submarine SSG577 Booklet of General Plans](https://maritime.org/doc/plans/ssg577.pdf)
+(6 Drawings)
 
 <img src="previews/USSGrowler.png" width="400">
 
