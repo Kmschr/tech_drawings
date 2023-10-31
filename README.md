@@ -31,6 +31,9 @@ Example: [Plans for the Armored Cruiser USS Maine](https://catalog.archives.gov/
 
 <img src="previews/USSMaine.png" width="400">
 
+## Deutsche Fotothek (German Photo Library)
+Construction Drawings: https://www.deutschefotothek.de/gallery/freitext/Konstruktionszeichnungen
+
 ## Denver Public Library Digital Collections
 https://digital.denverlibrary.org/digital/search/order/datea/ad/asc/page/1
 
