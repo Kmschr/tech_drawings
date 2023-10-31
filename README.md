@@ -18,7 +18,7 @@ https://www.loc.gov/pictures/collection/hh/
 
 Example: [Texas State Capitol](https://www.loc.gov/pictures/search/?q=Drawing:%20tx0398&fi=number&op=PHRASE&va=exact&co%20=hh&st=gallery&sg%20=%20true)
 
-<img src="TexasStateCapitol.png" width="400">
+<img src="previews/TexasStateCapitol.png" width="400">
 
 ## U.S. National Archives
 
@@ -27,14 +27,14 @@ https://catalog.archives.gov/search-within/559623?availableOnline=true&typeOfMat
 
 Example: [Plans for the Armored Cruiser USS Maine](https://catalog.archives.gov/id/53484484)
 
-<img src="USSMaine.jfif" width="400">
+<img src="previews/USSMaine.png" width="400">
 
 ## Denver Public Library Digital Collections
 https://digital.denverlibrary.org/digital/search/order/datea/ad/asc/page/1
 
 Example: [Denver & Rio Grande Railway Drawings](https://digital.denverlibrary.org/digital/collection/p16079coll29/search/searchterm/Denver%20and%20Rio%20Grande%20Railway%20Company./field/creato/mode/exact/conn/and)
 
-<img src="D&RG.jpg" width="400">
+<img src="previews/D&RG.png" width="400">
 
 ## San Francisco Maritime National Park Association
 
@@ -43,7 +43,7 @@ https://maritime.org/doc/plans/index.php
 
 Example: [USS Growler Submarine SSG577 Booklet of General Plans](https://maritime.org/doc/plans/ssg577.pdf)
 
-<img src="USSGrowler.png" width="400">
+<img src="previews/USSGrowler.png" width="400">
 
 ## Canada National Archives
 Architectural and technical drawings:
