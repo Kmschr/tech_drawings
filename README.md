@@ -60,6 +60,7 @@ Example: [Canada Parliament Buildings](https://recherche-collection-search.bac-l
 
 ## Southern Methodist University Digital Collections
 Railroad Engineering Drawings: https://digitalcollections.smu.edu/digital/collection/rwy/search/searchterm/Series%201:%20Engineering%20Drawings/field/series/mode/exact/conn/and
+
 New York Bridge Drawings: https://digitalcollections.smu.edu/digital/collection/nam/search/searchterm/New%20York%20Bridge%20Drawings/field/part/mode/exact/conn/and
 
 Example: [Queensboro Bridge](https://digitalcollections.smu.edu/digital/collection/nam/id/418/rec/22)
