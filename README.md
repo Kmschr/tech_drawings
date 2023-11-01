@@ -49,6 +49,14 @@ Example: [Denver & Rio Grande Railway Drawings](https://digital.denverlibrary.or
 
 <img src="previews/D&RG.png" width="400">
 
+## Henry Ford Digital Collections
+https://www.thehenryford.org/collections-and-research/digital-collections/search-results#advancedSearch=1&s.0.in=collectionTitle&s.0.for=Ford%20Motor%20Company%20Part%20Drawing%20Collection
+
+Example: [Ford Model A Drawings](https://www.thehenryford.org/collections-and-research/digital-collections/search-results#advancedSearch=1&tab=artifact-results&s.0.in=keywords&s.0.for=Technical%20drawings&s.1.in=keywords&s.1.for=Ford%20Model%20A%20automobile&years=0-0&f.type=documents&perPage=100&pageNum=1&sortBy=relevance)
+(890 Drawings)
+
+<img src="previews/ModelA.png" width="400">
+
 ## San Francisco Maritime National Park Association
 
 Booklet of General Plans Online:
@@ -96,4 +104,3 @@ The collection utilizes the [IIIF Image API 2.0](https://iiif.io/api/image/2.0/)
 - [Derby Carriage and Wagon Works](https://collection.sciencemuseumgroup.org.uk/documents/aa110002829/engineering-drawings-from-the-derby-carriage-and-wagon-works)
 - [North Eastern Railway and London & North Eastern Railway Carriage & Wagon Drawings](https://collection.sciencemuseumgroup.org.uk/documents/aa110131518/north-eastern-railway-and-london-north-eastern-railway-carriage-wagon-drawings)
 - [Jackson and Sharp Company Railway Car and Ship Plans Drawings](https://delaware.contentdm.oclc.org/digital/collection/p15323coll6/search/searchterm/Drawings)
-- [Henry Ford Collection Drawings](https://www.thehenryford.org/collections-and-research/digital-collections/search-results#advancedSearch=1&tab=artifact-results&s.0.in=keywords&s.0.for=Technical%20drawings&years=0-0&perPage=10&pageNum=1&sortBy=relevance)
