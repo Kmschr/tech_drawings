@@ -52,6 +52,8 @@ Example: [Denver & Rio Grande Railway Drawings](https://digital.denverlibrary.or
 ## Henry Ford Digital Collections
 https://www.thehenryford.org/collections-and-research/digital-collections/search-results#advancedSearch=1&s.0.in=collectionTitle&s.0.for=Ford%20Motor%20Company%20Part%20Drawing%20Collection
 
+Note: can use something like [dezoomify](https://dezoomify.ophir.dev/) to download the full res image after inspecting the page source
+
 Example: [Ford Model A Drawings](https://www.thehenryford.org/collections-and-research/digital-collections/search-results#advancedSearch=1&tab=artifact-results&s.0.in=keywords&s.0.for=Technical%20drawings&s.1.in=keywords&s.1.for=Ford%20Model%20A%20automobile&years=0-0&f.type=documents&perPage=100&pageNum=1&sortBy=relevance)
 (890 Drawings)
 
