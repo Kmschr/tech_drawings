@@ -82,7 +82,7 @@ Railroad Engineering Drawings: https://digitalcollections.smu.edu/digital/collec
 New York Bridge Drawings: https://digitalcollections.smu.edu/digital/collection/nam/search/searchterm/New%20York%20Bridge%20Drawings/field/part/mode/exact/conn/and
 
 Example: [Queensboro Bridge](https://digitalcollections.smu.edu/digital/collection/nam/id/418/rec/22)
-(34 Drawings)
+(200+ Drawings)
 
 <img src="previews/QueensboroBridge.png" width="400">
 
@@ -100,7 +100,10 @@ The collection utilizes the [IIIF Image API 2.0](https://iiif.io/api/image/2.0/)
 - Replace the last part of the URL that says `.ptif` with `/full/full/0/default.tif`
     - This is essentially saying "give me the full image with no rotation and default colors in TIFF format"
 
-## Misc Quicklinks
+Example: [North Eastern Railway and London & North Eastern Railway Carriage & Wagon Drawings](https://collection.sciencemuseumgroup.org.uk/documents/aa110131518/north-eastern-railway-and-london-north-eastern-railway-carriage-wagon-drawings)
+(~100 Drawings)
+
+<img src="previews/LNERWagon.png" width="400">
+
 - [Derby Carriage and Wagon Works](https://collection.sciencemuseumgroup.org.uk/documents/aa110002829/engineering-drawings-from-the-derby-carriage-and-wagon-works)
-- [North Eastern Railway and London & North Eastern Railway Carriage & Wagon Drawings](https://collection.sciencemuseumgroup.org.uk/documents/aa110131518/north-eastern-railway-and-london-north-eastern-railway-carriage-wagon-drawings)
 - [Jackson and Sharp Company Railway Car and Ship Plans Drawings](https://delaware.contentdm.oclc.org/digital/collection/p15323coll6/search/searchterm/Drawings)
