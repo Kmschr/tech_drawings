@@ -34,6 +34,13 @@ Example: [Plans for the Armored Cruiser USS Maine](https://catalog.archives.gov/
 ## Deutsche Fotothek (German Photo Library)
 Construction Drawings: https://www.deutschefotothek.de/gallery/freitext/Konstruktionszeichnungen
 
+## New York City Department of Records
+Interesting collections:
+- Department of Buildings Architectural Plans and Drawings
+- Parks and Parkways Drawings and Plans
+
+https://nycma.lunaimaging.com/luna/servlet/view/all
+
 ## Denver Public Library Digital Collections
 https://digital.denverlibrary.org/digital/search/order/datea/ad/asc/page/1
 
