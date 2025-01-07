@@ -111,3 +111,14 @@ Example: [North Eastern Railway and London & North Eastern Railway Carriage & Wa
 
 - [Derby Carriage and Wagon Works](https://collection.sciencemuseumgroup.org.uk/documents/aa110002829/engineering-drawings-from-the-derby-carriage-and-wagon-works)
 - [Jackson and Sharp Company Railway Car and Ship Plans Drawings](https://delaware.contentdm.oclc.org/digital/collection/p15323coll6/search/searchterm/Drawings)
+
+
+## WikiArquitectura
+
+Example: [Bangkok Skyscraper](https://en.wikiarquitectura.com/building/mahanakhon/#)
+
+To get to full resolution drawings - you must right click image, open in new tab, change url to remove the size at the end
+For example:
+https://en.wikiarquitectura.com/wp-content/uploads/2019/03/MahaNakhon-Facade-1024x363.jpg
+turns into
+https://en.wikiarquitectura.com/wp-content/uploads/2019/03/MahaNakhon-Facade.jpg
